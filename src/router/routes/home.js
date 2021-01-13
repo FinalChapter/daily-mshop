@@ -3,6 +3,6 @@ var  homeRoutes = [
     {
         path:'/mshop/home',
         component:Home
-    }
+    },
 ]
 export default homeRoutes
